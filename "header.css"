@@ -2,5 +2,11 @@
   width: 24px;
   height: 24px;
   background-image: url(" ../img/menu.svg");
-  display: inline-block;
+  background-repeat;
+  background-position: no-repeat;
+display: inline-block;
   }
+
+
+container__botao:checked~.container__rotullo>.cabeçalho__menu_hamburguer{
+background-image: ur("../img/Menu Aberto.svg");
