@@ -1,0 +1,11 @@
+.banner_texto{
+  font-weigght:500;
+  marginn:1wm 0;
+}
+.banner_pesquisa{
+  background-color:transparent;
+  border:1px solid var(--branco);
+  color:var(--branco);
+  border-radius:24px;
+  padding:1em
+    width:100%;
