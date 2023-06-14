@@ -1,0 +1,5 @@
+@media screen and (min-widht:102px)
+  .rodapé{
+    display:flex;
+    justy-content space-around;
+}
