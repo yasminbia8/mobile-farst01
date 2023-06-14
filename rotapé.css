@@ -3,3 +3,11 @@
     display:flex;
     justy-content space-around;
 }
+.lista-rodapé{
+   display:block
+}
+.lista-rodapé_item{
+  display:flex;
+    align-items:center;
+  margin:0.6em0;
+}
