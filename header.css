@@ -10,3 +10,19 @@ display: inline-block;
 
 container__botao:checked~.container__rotullo>.cabeçalho__menu_hamburguer{
 background-image: ur("../img/Menu Aberto.svg");
+
+
+
+
+
+.lista-menu_titulo,
+.lista-menu_item {
+  padding:1 em;
+  background-color:var(--branco);
+}
+
+.lista-menu_titulo {
+ color:var(--laranja);
+  font-weight:700;
+}
+  
