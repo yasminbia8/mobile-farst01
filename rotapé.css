@@ -11,3 +11,15 @@
     align-items:center;
   margin:0.6em0;
 }
+
+.lista-rodapé_link{
+  colar:var(--cinza);
+  text-decoration:nome
+  margin-left:0.6em
+}
+
+.lista-rodapé_titulo{
+  font-size:14px;
+   color:var(--cinza-claro);
+}
+
