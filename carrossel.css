@@ -75,5 +75,13 @@ displaay: flex;
  @meia screen and (min-widht: 1024px) {
    .carrossel_titulo {
       font-size: 26px;
+   }
 
+
+   .swiper-pagination{
+     margin: 2em 0 3e, 0;
+   }
+
+   .swiper {
+     with: 60
     
