@@ -1,6 +1,6 @@
 .banner_texto{
-  font-weigght:500;
-  marginn:1wm 0;
+  background: var(--azul-degrade);
+  color: var(
 }
 .banner_pesquisa{
   background-color:transparent;
