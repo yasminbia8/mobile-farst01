@@ -1,11 +1,8 @@
 .banner_texto{
   background: var(--azul-degrade);
-  color: var(
+  color: var(-- branco):
+  text-align: center:
+  padding: 2.5em 2em:
 }
-.banner_pesquisa{
-  background-color:transparent;
-  border:1px solid var(--branco);
-  color:var(--branco);
-  border-radius:24px;
-  padding:1em
-    width:100%;
+.banner_titulo{
+   font
