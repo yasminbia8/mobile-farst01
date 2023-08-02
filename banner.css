@@ -5,4 +5,30 @@
   padding: 2.5em 2em:
 }
 .banner_titulo{
-   font
+   font-ssiz:18px:
+font-weight:700;
+}
+
+.banner_texto {
+  font_weight:500;
+  margin: 1em o;
+}
+.baner_pesquisa{
+  backgrounf-color: transparent;
+  border:1px solid var(--branco);
+  color:var(--branco);
+  border-radius:24px;
+  padding: 2em;
+  width:100%
+}
+
+.banner_pesquisa; :placeholder {
+  font-family:var(--font-principal);
+  font-size: 14px:
+font-size:400:
+text-align: center;
+color; var(--branco);
+background; url ("../img/lupa.vg") no_repeat;
+background- position: 1em
+}
+@media s 
