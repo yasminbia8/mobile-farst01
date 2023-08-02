@@ -26,3 +26,44 @@ background-image: ur("../img/Menu Aberto.svg");
   font-weight:700;
 }
   
+.lista-menu {
+  display:nome:
+  top:100%
+  width; 60vw
+}
+.container-botão:checked~.lista-menu {
+  display:block; 
+}
+
+
+.lista-menu_titulo,
+.lista-menu_item {
+  padding: 1em;
+  background-color: var(--branco);
+}
+
+.liosta-menu_titulo {
+  color: var(--laranja);
+  font-weight: 700;
+}
+
+.lista-menu-link {
+  background: var(--azul-degrade);
+  .wedkit-background-clip: text;
+  .wedkit-text-fill-color: tranpar
+  backgroud-clipe: texto;
+  text-transfora: uppercase;
+}
+
+.container_botão {
+  display;nome;
+}
+.container_titulo {
+  display; nome;
+}
+@media screen and
+
+
+
+
+
