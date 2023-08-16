@@ -21,4 +21,6 @@
 body {
     background-color: var(--cor-de-fundo);
     font-family:var(--fundo-principal);
-    
+    fonte-size: 10px;
+    fonte-wigth: 400;
+}
