@@ -22,7 +22,7 @@ font-weight:700;
   width:100%
 }
 
-.banner_pesquisa; :placeholder {
+.banner_pesquisa;:placeholder {
   font-family:var(--font-principal);
   font-size: 14px:
 font-size:400:
@@ -61,4 +61,3 @@ background-position: 1em;
     padding: 6em 0;
   }
 }
-
