@@ -1,4 +1,4 @@
-.CABEÇALHO menu- hamburguer {
+.cabeçaLHO menu- hamburguer {
   width: 24px;
   height: 24px;
   background-image: url(" ../img/menu.svg");
@@ -9,11 +9,11 @@ display: inline-block;
 
 
 container__botao:checked~.container__rotullo>.cabeçalho__menu_hamburguer{
-background-image: ur("../img/Menu Aberto.svg");
+background-image: url("../img/Menu Aberto.svg");
 
-
-
-
+.container_botao:checked~,container_rotulo>.cabeçaLHO_menu-hamburguer {
+backeground-image: url("../imh/Menu Aberto.svg");
+}
 
 .lista-menu_titulo,
 .lista-menu_item {
@@ -61,7 +61,7 @@ background-image: ur("../img/Menu Aberto.svg");
 .container_titulo {
   display; nome;
 }
-@media screen and
+@media screen and 
 
 
 
